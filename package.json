@@ -1,0 +1,27 @@
+{
+    "name": "game",
+    "version": "1.0.0",
+    "description": "A realtime online multiplayer game.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "me",
+    "license": "ISC",
+    "dependencies": {
+        "browser": "^0.2.6",
+        "console": "^0.7.2",
+        "express": "^4.17.2",
+        "jquery": "^3.1.1",
+        "package": "^1.0.1",
+        "package.json": "^2.0.1",
+        "pakage": "^1.0.0",
+        "path": "^0.12.7",
+        "qs": "^6.10.3",
+        "require": "^2.4.20",
+        "skeleton-css": "^2.0.4",
+        "socket.io": "^2.3.0",
+        "url": "^0.11.0",
+        "winston": "^3.4.0"
+    }
+}
